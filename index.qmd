@@ -1,0 +1,13 @@
+---
+title: Webpage Tom Cahuich
+author: Tom Cahuich
+format:
+    html: 
+        theme:
+            light: journal
+            dark: cyborg
+---
+## ¡Bienvenido a mi sitio web!
+
+Este sitio fue generado usando **Quarto** desde **Positron**.
+
