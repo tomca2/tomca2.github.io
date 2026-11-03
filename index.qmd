@@ -7,7 +7,12 @@ format:
             light: journal
             dark: cyborg
 ---
-## ¡Bienvenido a mi sitio web!
+## ¡Bienvenido!
+
+Estudios
+Licenicatura en Ciencias de la Educación con acentuación en la Física y la Matemática - 1998 - Universidad de Montemorelos
+
+
 
 Este sitio fue generado usando **Quarto** desde **Positron**.
 
