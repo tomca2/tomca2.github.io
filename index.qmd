@@ -1,18 +1,7 @@
 ---
-title: Webpage Tom Cahuich
-author: Tom Cahuich
-format:
-    html: 
-        theme:
-            light: journal
-            dark: cyborg
+title: "MC Tom Cahuich"
 ---
-## ¡Bienvenido!
 
-Estudios
-Licenicatura en Ciencias de la Educación con acentuación en la Física y la Matemática - 1998 - Universidad de Montemorelos
+This is a Quarto website.
 
-
-
-Este sitio fue generado usando **Quarto** desde **Positron**.
-
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
