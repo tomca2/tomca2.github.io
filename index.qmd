@@ -1,7 +1,32 @@
+
 ---
-title: "tomca2.github.io"
+title: "Tom Cahuich"
 ---
 
-This is a Quarto website.
+::: {.profile-layout}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.profile-text}
+
+Soy académico, docente e investigador interesado en la estadística, las matemáticas y la educación.
+
+Mi trabajo integra la investigación científica, la innovación educativa y el desarrollo del pensamiento crítico, procurando conectar el conocimiento con una perspectiva humana y trascendente.
+
+Mis áreas de interés son:
+
+- Estadística y análisis de datos.
+- Matemáticas y educación.
+- Investigación educativa.
+- Tecnología aplicada a la enseñanza.
+
+Aquí encontrarás información sobre mis investigaciones, publicaciones, proyectos, experiencias docentes y recursos educativos.
+
+:::
+
+::: {.profile-image}
+
+![](images/profile.jpeg){fig-alt="Fotografía de perfil académico"}
+
+:::
+# Noticias
+::: 
+# Últimos Posts
