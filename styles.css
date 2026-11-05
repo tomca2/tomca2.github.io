@@ -85,3 +85,38 @@ a {
     grid-row: 2;
   }
 }
+
+
+
+
+/* Navbar: centrado, transparente y minimalista */
+
+.navbar {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.18);
+}
+
+/* Centrar los elementos del menú */
+.navbar .navbar-collapse {
+  justify-content: center !important;
+}
+
+/* Centrar los enlaces */
+.navbar .navbar-nav {
+  justify-content: center;
+  align-items: center;
+}
+
+/* Espaciado entre las opciones */
+.navbar .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+/* Eliminar el fondo al pasar el cursor */
+.navbar .navbar-nav .nav-link:hover {
+  background-color: transparent;
+}
