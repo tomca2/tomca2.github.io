@@ -1,24 +1,24 @@
 
 ---
-title: "Tom Cahuich"
+title: ""
 ---
 
 ::: {.profile-layout}
 
 ::: {.profile-text}
 
-Soy académico, docente e investigador interesado en la estadística, las matemáticas y la educación.
+Soy académico, docente e investigador interesado en la estadística, las matemáticas y la educación. Mi trayectoria académica y profesional se ha desarrollado en torno al estudio, la enseñanza y la aplicación de las matemáticas y los métodos estadísticos, campos que considero fundamentales para comprender, interpretar y transformar la realidad.
 
-Mi trabajo integra la investigación científica, la innovación educativa y el desarrollo del pensamiento crítico, procurando conectar el conocimiento con una perspectiva humana, cristiana y trascendente.
-
-Mis áreas de interés son:
+Mi trabajo integra la investigación científica, la innovación educativa y el desarrollo del pensamiento analítico, procurando conectar el conocimiento con una perspectiva humana, cristiana y trascendente. Mis áreas de interés son:
 
 - Estadística y análisis de datos.
 - Matemáticas y educación.
-- Investigación educativa.
+- Investigación y evaluación educativa.
 - Tecnología aplicada a la enseñanza.
 
 Aquí encontrarás información sobre mis investigaciones, publicaciones, proyectos, experiencias docentes y recursos educativos.
+
+Concibo la educación como un proceso que va más allá de la transmisión de conocimientos: es una oportunidad para formar personas capaces de pensar, cuestionar, crear y actuar con responsabilidad. Desde una perspectiva que integra ciencia, educación y valores bíblico-cristianos, procuro que mi labor académica y profesional contribuya no solo al desarrollo intelectual, sino también a la formación integral del ser humano. Creo en una educación que combina el rigor científico, la curiosidad intelectual, el pensamiento matemático y el compromiso con el servicio a los demás.
 
 :::
 
@@ -26,9 +26,26 @@ Aquí encontrarás información sobre mis investigaciones, publicaciones, proyec
 
 ![](images/profile.jpeg){fig-alt="Fotografía de perfil académico"}
 
+<div class="profile-info">
+
+**Tom Cahuich**
+
+Docente e investigador
+
+**Perfiles académicos**
+
+[ORCID](https://orcid.org/0000-0002-3016-1433)
+
+[Google Scholar](https://scholar.google.com/citations?hl=es&user=lmr55PMAAAAJ)
+
+[Correo electrónico](mailto:tomca@um.edu.mx)
+
+</div>
+
+
 :::
 #### Noticias
-
+Andamos leyendo cada cosa en redes. Teorías conspiracionistas y apagones que subitamente se presentan en bancos, empresas y sistemas aviarios.
 
 
 #### Últimos Posts
