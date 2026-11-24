@@ -1,0 +1,7 @@
+---
+title: "Publicaciones"
+format: html
+---
+
+## Artículos
+Ramón Sotelo, L. A., Cahuich Cahuich, T., Urbano Chagoya, S., Hernández Leal, A. I., Torres Salinas, D. E., Aranda Escobedo, A. Z., Velázquez Carabali, B. L., Hernández Terrazas, N. N., Meza López, A. E. & Torres Tovar, M. J. (2026). Calidad del sueño, somnolencia diurna, ansiedad y depresión en docentes universitarios de una institución educativa. *PsicoSophia, 8(1), 12-19*. https://doi.org/10.37354/rpsiso.2026.8.1.059

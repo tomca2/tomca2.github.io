@@ -9,7 +9,9 @@ title: ""
 
 Soy académico, docente e investigador interesado en la estadística, las matemáticas y la educación. Mi trayectoria académica y profesional se ha desarrollado en torno al estudio, la enseñanza y la aplicación de las matemáticas y los métodos estadísticos, campos que considero fundamentales para comprender, interpretar y transformar la realidad.
 
-Mi trabajo integra la investigación científica, la innovación educativa y el desarrollo del pensamiento analítico, procurando conectar el conocimiento con una perspectiva humana, cristiana y trascendente. Mis áreas de interés son:
+Mi trabajo integra la investigación científica, la innovación educativa y el desarrollo del pensamiento analítico, procurando conectar el conocimiento con una perspectiva humana, cristiana y trascendente.
+
+Mis áreas de interés son:
 
 - Estadística y análisis de datos.
 - Matemáticas y educación.
@@ -18,7 +20,6 @@ Mi trabajo integra la investigación científica, la innovación educativa y el 
 
 Aquí encontrarás información sobre mis investigaciones, publicaciones, proyectos, experiencias docentes y recursos educativos.
 
-Concibo la educación como un proceso que va más allá de la transmisión de conocimientos: es una oportunidad para formar personas capaces de pensar, cuestionar, crear y actuar con responsabilidad. Desde una perspectiva que integra ciencia, educación y valores bíblico-cristianos, procuro que mi labor académica y profesional contribuya no solo al desarrollo intelectual, sino también a la formación integral del ser humano. Creo en una educación que combina el rigor científico, la curiosidad intelectual, el pensamiento matemático y el compromiso con el servicio a los demás.
 
 :::
 
@@ -30,7 +31,8 @@ Concibo la educación como un proceso que va más allá de la transmisión de co
 
 **Tom Cahuich**
 
-Docente e investigador
+Docente e investigador de la
+[Universidad de Montemorelos](http://www.um.edu.mx)
 
 **Perfiles académicos**
 
@@ -49,10 +51,14 @@ Andamos leyendo cada cosa en redes. Teorías conspiracionistas y apagones que su
 
 
 #### Últimos Posts
-
+No hay posts por ahora.
 
 #### Contacto
+X
+Instagram
+Instagram
+Mail
 
 #### Sólo porque sí
-
+Concibo la educación como un proceso que va más allá de la transmisión de conocimientos: es una oportunidad para formar personas capaces de pensar, cuestionar, crear y actuar con responsabilidad. Desde una perspectiva que integra ciencia, educación y valores bíblico-cristianos, procuro que mi labor académica y profesional contribuya no solo al desarrollo intelectual, sino también a la formación integral del ser humano. Creo en una educación que combina el rigor científico, la curiosidad intelectual, el pensamiento matemático y el compromiso con el servicio a los demás.
 ::: 
