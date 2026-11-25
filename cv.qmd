@@ -1,0 +1,96 @@
+---
+title: "Curriculum Vitae"
+author: "MC Tomás Cahuich"
+
+format:
+  html:
+    toc: false
+  typst:
+    papersize: us-letter
+    margin:
+      x: 2cm
+      y: 1.7cm
+    fontsize: 10pt
+    mainfont: "Libertinus Serif"
+    linkcolor: "#24566A"
+    page-numbering: "1"
+format-links: false
+---
+
+
+
+```{=typst}
+#set text(fill: rgb("#263238"))
+#set par(justify: false, leading: 0.65em)
+#show heading.where(level: 2): set text(
+  fill: rgb("#24566A"),
+  weight: "bold",
+  size: 11pt
+)
+```
+
+
+## MC Tomás Felipe Cahuich Cahuich
+
+**Docente e investigador en Educación, Matemáticas y Estadística**
+
+[Universidad de Montemorelos](um.edu.mx) · [Correo electrónico](mailto:tomca@um.edu.mx) · [ORCID](https://orcid.org/0000-0002-3016-1433) · [Google Scholar](https://scholar.google.com/citations?hl=es&user=lmr55PMAAAAJ)
+
+## Perfil profesional
+
+Licenciado en Enseñanza de la Física y Matemáticas,
+con Maestría en Estadística. Experiencia en docencia,
+investigación y análisis de datos.
+
+## Formación académica
+
+**Maestría en Estadística Aplicada**
+
+Instituto Tecnológico de Estudios Superiores de Monterrey - Campus mMonterrey | 2005
+
+**Licenciatura en Ciencias de la Educación en la Especialidad de Física y Matemáticas**
+
+Universidad de Montemorelos | 1998
+
+## Experiencia profesional
+
+**Docente**
+
+Facultad de Educación | Universidad de Montemorelos | 1998 - Actualidad
+
+**Referente de la Academia de Física y Matemáticas**
+
+Facultad de Educación | Universidad de Montemorelos | 2005 - Actualidad
+
+**Asistente administrativo**
+
+Pregrado en Educación | Facultad de Educación | Universidad de Montemorelos | 1998 - Actualidad
+
+**Universidad de Distancia**
+
+Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
+
+## Líneas de investigación
+
+- Educación matemática.
+- Estadística aplicada.
+- Evaluación educativa.
+- Análisis de datos.
+
+## Publicaciones
+
+Consulta la sección de publicaciones de mi sitio web.
+
+## Competencias técnicas
+
+- RStudio.
+- Jamovi.
+- Jasp.
+- Positrón.
+- Látex.
+- Análisis estadístico.
+- Elaboración de Instrumentos de Medición.
+- Fundamentos Matemáticos en la Investigación
+
+
+[Descargar Currículum Vitae en PDF](cv.pdf)

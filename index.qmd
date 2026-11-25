@@ -50,9 +50,10 @@ Docente e investigador de la
 Andamos leyendo cada cosa en redes. Teorías conspiracionistas y apagones que subitamente se presentan en bancos, empresas y sistemas aviarios.
 
 
-#### Últimos Posts
-No hay posts por ahora.
+#### Publicaciones
 
+
+::: 
 #### Contacto
 X
 Instagram
@@ -60,5 +61,6 @@ Instagram
 Mail
 
 #### Sólo porque sí
-Concibo la educación como un proceso que va más allá de la transmisión de conocimientos: es una oportunidad para formar personas capaces de pensar, cuestionar, crear y actuar con responsabilidad. Desde una perspectiva que integra ciencia, educación y valores bíblico-cristianos, procuro que mi labor académica y profesional contribuya no solo al desarrollo intelectual, sino también a la formación integral del ser humano. Creo en una educación que combina el rigor científico, la curiosidad intelectual, el pensamiento matemático y el compromiso con el servicio a los demás.
-::: 
+
+
+:::
