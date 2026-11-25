@@ -89,7 +89,7 @@ a {
 
 
 
-/* Navbar: centrado, transparente y minimalista */
+/* Navbar: transparente y minimalista */
 
 .navbar {
   background-color: transparent !important;
@@ -119,4 +119,20 @@ a {
 /* Eliminar el fondo al pasar el cursor */
 .navbar .navbar-nav .nav-link:hover {
   background-color: transparent;
+}
+
+/* Separadores verticales del navbar */
+.navbar .navbar-nav .nav-item {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .navbar-nav .nav-item:not(:last-child)::after {
+  content: "";
+  display: block;
+  height: 18px; /* Altura de la línea */
+  width: 1px;   /* Grosor de la línea */
+  background-color: rgba(128, 128, 128, 0.30);
+  margin-left: 0.8rem;
+  margin-right: 0.3rem;
 }
