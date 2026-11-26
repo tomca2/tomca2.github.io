@@ -29,6 +29,8 @@ format-links: false
 )
 ```
 
+
+
 ::: {.text-center}
 ## Curriculum Vitae
 
@@ -97,9 +99,7 @@ Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
 - Álgebra Lineal.
 - Variable Compleja.
 - Probabilidad.
-- Estadística Univariada.
-- Estadística Bivariada.
-- Estadística Univariada.
+- Estadística.
 
 ## Líneas de investigación
 
@@ -132,6 +132,45 @@ Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
 
 
 **Asesor metodológico**
+
+- Nanopartículas poliméricas con extracto de Thymus vulgaris y su actividad antioxidante y anifúngica frente a Colletotrichum gloeosporioides y Geotrichum candidum.\
+  | García, G., Galindo, S., Zamora, A., & Piña, A. | XXXIX Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Guadalajara, Jalisco, Mx. | Marzo 2026 |
+
+- Caracterización química de un propóleo comercial del estado de Nuevo León con potencial para el desarrollo de alimentos funcionales.\
+  | Ordaz, K., Castro, M., Jiménez, L., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Determinación de actividad antifúngica del extracto hidroalcohólico de Thymus Vulgaris L. (Tomillo) contra el Fitopatógeno Colletotrichum Gloeosporiorides.\
+  | Zamora, B., Zamora, A., Galindo, S., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Influencia del nuevo etiquetado de alimentos mexicano sobre la selección de productos empaquetados en un grupo de alumnos de nivel secundaria de Ciudad Juárez, Chihuahua, México.\
+  | Pérez De la Cruz, A., Elizondo, M., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Anumerismo: ¿verdad o ficción?.\
+  | Gutiérrez, D. & García, F. | Feria de Investigación |UM | Abril 2025 |
+
+- Regresión lineal simple: fundamentación teórica.\
+  | Torres, N. | Feria de Investigación |UM | Abril 2025 |
+
+- El Pensamiento Matemático como predictor de la Ansiedad Matemática.\
+  | Camacho, A. | Feria de Investigación |UM | Abril 2025 |
+
+- El puntuación del EXANI II y la Actitud hacia las matemáticas como predictores del rendimiento académico en general y en matemáticas.\
+  | Flores, A. | Feria de Investigación |UM | Abril 2025 |
+
+- Diagnóstico de Inclusión en Instituciones Educativas de la División Interamericana.\
+  | Patterson, F., Elizondo, Mar, Flores, M. & Cahuich, T. | División Interamericana | Mayo 2025 |
+
+- Relación entre la calidad de sueño y síndrome de burnout en estudiantes de Medicina en Universidad en Nuevo Léon.\
+  | Mita Carrera, D. | Maestría | FACSA | Mayo 2025 |
+
+- Girasoles, serie de Fibonacci y el número áureo: un trabajo de campo.\
+  | Hernández, B. | Feria de Investigación | UM | Abril 2024 |
+
+- Calidad de sueño, somnoliencia diurna, ansiedad y depresión en estudiantes de una preparatoria privada del norte de México.\
+  | Feria de Investigación | UM | Abril 2024 |
+
+- Determinación de la toxicidad aguda por medio del ensayo de capacidad hemolítica del extracto hidroalcohólico de Justicia Spicigera y el extracto etanólico de Eucalyptus Spp.\
+  | Feria deInvestigación | UM | Abril 2023 |
 
 - Análisis correlacional de índices de calidad de sueño, niveles de somnolencia diurna e indicadores de ansiedad en estudiantes universitarios de la carrera de Médico Cirujano de una universidad de privada de México.\
   | Ramón, L., De la Rosa, L., Jerónimo, K., Oviedo, I., & Rivera, D. | Licenciatura | FAPSI | Mayo 2022 |
@@ -235,6 +274,15 @@ Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
 
 **Evaluador de Tesis**
 
+- Planteamiento de conjeturas en Matemáticas utilizando Geogebra.\
+  | Promotor Montes, I. | Maestría | FACED | Mayo 2023 |
+
+- Habilidades linguisticas de los docentes de la Unión Mexicana del Norte: Sección de Expresión Oral.\
+  | Olivares Perales, S. | Maestría | FACED | Abril 2023 |
+
+- Creencias matemáticas y su aprendizaje en estudiantes de tercer grado de secundaria.\
+  | Rosas Silva, L. | Maestría | FACED | Abril 2023 |
+
 - Determinación de la capacidad hemolítica in vitro de los extractos de Origanum vulgare, Pipernigrum, Solanum lycopersicum y Allium sativum por medio del ensayo hemólisis eritrocitaria.\
   | Flores López, D. | Licenciatura | FACSA | Diciembre 2021 |
 
@@ -336,6 +384,9 @@ Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
 
 **Ponencias**
 
+- Diagnóstico de Inclusión en Instituciones Educativas de la División Interamericana.\
+  | Patterson, F., Elizondo, Mar, Flores, M. & Cahuich, T. | Congreso Científico de Universidades Adventistas Latinoamericanas | División Interamericana | Medellín, Colombia. | Mayo 2025 |
+
 - Las emociones positivas y su relación con el rendimiento académico en la materia de métodos de investigación.\
   | Feria de Investigación | UM | Abril 2022 |
 
@@ -347,10 +398,55 @@ Universidad a Distancia | Universidad de Montemorelos | 1998 - 2003
 
 **Carteles**
 
+- Nanopartículas poliméricas con extracto de Thymus vulgaris y su actividad antioxidante y anifúngica frente a Colletotrichum gloeosporioides y Geotrichum candidum.\
+  | García, G., Galindo, S., Zamora, A., & Piña, A. | XXXIX Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Guadalajara, Jalisco, Mx. | Marzo 2026 |
+
+- Caracterización química de un propóleo comercial del estado de Nuveo León con potencial para el desarrollo de alimentos funcionales.\
+  | Ordaz, K., Castro, M., Jiménez, L., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Determinación de actividad antifúngica del extracto hidroalcohólico de Thymus Vulgaris L. (Tomillo) contra el Fitopatógeno Colletotrichum Gloeosporiorides.\
+  | Zamora, B., Zamora, A., Galindo, S., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Influencia del nuevo etiquetado de alimentos mexicano sobre la selección de productos empaquetados en un grupo de alumnos de nivel secundaria de Ciudad Juárez, Chihuahua, México.\
+  | Pérez De la Cruz, A., Elizondo, M., & Piña, A. | XXXVIII Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutrición (AMMFEN) |Chihuahua, Chihuahua, Mx. | Abril 2025 |
+
+- Anumerismo: ¿verdad o ficción?.\
+  | Gutiérrez, D. & García, F. | Feria de Investigación |UM | Abril 2025 |
+
+- Regresión lineal simple: fundamentación teórica.\
+  | Torres, N. | Feria de Investigación |UM | Abril 2025 |
+
+- El Pensamiento Matemático como predictor de la Ansiedad Matemática.\
+  | Camacho, A. | Feria de Investigación |UM | Abril 2025 |
+
+- El puntuación del EXANI II y la Actitud hacia las matemáticas como predictores del rendimiento académico en general y en matemáticas.\
+  | Flores, A. | Feria de Investigación |UM | Abril 2025 |
+
+- Girasoles, serie de Fibonacci y el número áureo: un trabajo de campo.\
+  | Hernández, B. | Feria de Investigación | UM | Abril 2024 |
+
+- Calidad de sueño, somnoliencia diurna, ansiedad y depresión en estudiantes de una preparatoria privada del norte de México.\
+  | Feria de Investigación | UM | Abril 2024 |
+
+- Determinación de la toxicidad aguda por medio del ensayo de capacidad hemolítica del extracto hidroalcohólico de Justicia Spicigera y el extracto etanólico de Eucalyptus Spp.\
+  | Feria deInvestigación | UM | Abril 2023 |
+
+- Análisis correlacional de razonamiento lógico abstracto y deductivo con el rendimiento académico en general y en el área matemática.\
+  | Feria deInvestigación | UM | Abril 2023 |
+
+- Determinación de la capacidad antioxidante y antimicrobiana del extracto hidroalcohólico de Justicia Spicigera y el extracto etanólico de Eucalyptus Spp y su potencial aplicación en la industria alimentaria.\
+  | Feria deInvestigación | UM | Abril 2023 |
+
+- Diseño y validación de un instrumento de medición para la inclusión en instituciones educativas.\
+  | Feria deInvestigación | UM | Abril 2023 |
+
+- Determinación de la capacidad antioxidante y antimicrobiana del extracto hidroalcohólico de Justicia Spicigera y el extracto etanólico de Eucalyptus Spp y su potencial aplicación en la industria alimentaria.\
+  | XXXVI Congreso Nacional Asociación Mexicana de Miembros de Facultades y Escuelas de Nutirción (AMMFEN) |Puerto Vallarta, Jalisco, Mx. | Marzo 2023 |
+
 - Calidad de sueño, somnoliencia diurna y ansiedad en estudiantes de octavo semestre de la carrera de médico cirujano de la Universidad de Montemorelos.\
   | Feria de Investigación | UM | Mayo 2021 |
 
-**Talleres**
+**Talleres impartidos**
 
 - Uso de Google Sites.\
   | FACED | Julio 2020 |

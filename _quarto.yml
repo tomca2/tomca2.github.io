@@ -7,12 +7,10 @@ website:
     right:
       - text: Inicio
         href: index.qmd
-      - text: CV
-        href: cv.qmd
       - text: Docencia
         href: docencia.qmd
-      - text: Investigación
-        href: investigación.qmd
+      - text: Investigación-Divulgación
+        href: investigación-Divulgación.qmd
 
 
 format:
