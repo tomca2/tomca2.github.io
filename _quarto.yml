@@ -11,8 +11,8 @@ website:
         href: cv.qmd
       - text: Docencia
         href: docencia.qmd
-      - text: Publicaciones
-        href: publicaciones.qmd
+      - text: Investigación
+        href: investigación.qmd
 
 
 format:

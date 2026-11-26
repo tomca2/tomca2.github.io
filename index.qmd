@@ -1,6 +1,6 @@
 
 ---
-title: ""
+title: "Tom Cahuich"
 ---
 
 ::: {.profile-layout}
@@ -25,16 +25,13 @@ Aquí encontrarás información sobre mis investigaciones, publicaciones, proyec
 
 ::: {.profile-image}
 
-![](images/profile.jpeg){fig-alt="Fotografía de perfil académico"}
+![](images/f.png){fig-alt="Fotografía de perfil académico"}
 
 <div class="profile-info">
 
-**Tom Cahuich**
+**Docente e investigador**
 
-Docente e investigador de la
 [Universidad de Montemorelos](http://www.um.edu.mx)
-
-**Perfiles académicos**
 
 [ORCID](https://orcid.org/0000-0002-3016-1433)
 
@@ -45,22 +42,4 @@ Docente e investigador de la
 </div>
 
 
-:::
-#### Noticias
-Andamos leyendo cada cosa en redes. Teorías conspiracionistas y apagones que subitamente se presentan en bancos, empresas y sistemas aviarios.
 
-
-#### Publicaciones
-
-
-::: 
-#### Contacto
-X
-Instagram
-Instagram
-Mail
-
-#### Sólo porque sí
-
-
-:::
